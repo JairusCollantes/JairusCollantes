@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [jairuscollantes.github.io](jairuscollantes.github.io)
 
+- 📫 How to reach me **jairuscollantes0@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
