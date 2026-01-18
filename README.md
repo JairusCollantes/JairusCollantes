@@ -1,5 +1,5 @@
-<h1 align="center">Hello I'm Jairus MArk C. Collantes</h1>
-<h3 align="center">A BSCS student at the Philippines</h3>
+<h1 align="center">Hello I'm Jairus Mark C. Collantes</h1>
+<h3 align="center">A BSCS student at Manuel S Enverga University Foundation</h3>
 
 - 🔭 I’m currently working on [square-game](github.com/JairusCollantes/square-pygame)
 
