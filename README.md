@@ -48,3 +48,4 @@ I'm a Computer Science student majoring in Software Engineering. I build web and
 - 🌍 [Portfolio](https://jairus.my-board.org/) · [日本語版](https://jairus.my-board.org/index_ja.html)
 
 *Open to remote internships and collaboration. Updated Sep 2026.*
+
