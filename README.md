@@ -1,4 +1,4 @@
-# Hi, I'm Jairus Mark C. Collantes 👋
+# Hi, I'm Jairus Mark C. Collantes 
 
 **Aspiring Full-Stack & AI Chatbot Developer** · CS @ MSEUF (expected 2029) · Philippines (UTC+8)
 
